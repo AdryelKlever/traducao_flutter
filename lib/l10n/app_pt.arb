@@ -1,0 +1,7 @@
+{
+    "helloWorld": "Olá Mundo",
+    "title": "Aplicativo em Inglês",
+    "@helloWorld": {
+        "description": "Olá Mundo"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "helloWorld": "Hello World",
+    "title": "English App",
+    "@helloWorld": {
+        "description": "Hello World"
+    }
+}
